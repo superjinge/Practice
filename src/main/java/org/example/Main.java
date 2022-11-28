@@ -3,7 +3,7 @@ package org.example;
 /**
  * java类作用描述
  *
- * @author chenjin02
+ * @author superjinge
  * @date ${DATE}  ${TIME}
  */
 public class Main {
